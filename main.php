@@ -7,5 +7,5 @@ $insta = new Instagram($anchor);
 echo json_encode($insta->urls, JSON_PRETTY_PRINT);
 
 
-
+echo "done";
 ?>
